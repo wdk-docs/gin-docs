@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://gin-gonic.com/es/sitemap.xml</loc>
+    
+      <lastmod>2021-04-14T20:49:49+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://gin-gonic.com/ja/sitemap.xml</loc>
+    
+      <lastmod>2021-04-14T20:49:49+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://gin-gonic.com/ko-kr/sitemap.xml</loc>
+    
+      <lastmod>2021-04-14T20:49:49+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://gin-gonic.com/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2021-04-15T16:58:04+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://gin-gonic.com/zh-tw/sitemap.xml</loc>
+    
+      <lastmod>2021-04-14T20:49:49+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://gin-gonic.com/en/sitemap.xml</loc>
+    
+      <lastmod>2021-04-14T20:49:49+09:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
